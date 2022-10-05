@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["drift|lib/drift.dart","drift|lib/native.dart","path|lib/path.dart","path_provider|lib/path_provider.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["io"],"hasMain":false}

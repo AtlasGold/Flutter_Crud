@@ -1,1 +1,0 @@
-{"isEntrypoint":false,"deps":["drift|lib/drift.dart"],"parts":[],"conditionalDeps":[{"$default":"flutter_crud|lib/src/platform/platform_stub.dart","dart.library.io":"flutter_crud|lib/src/platform/platform_app.dart","dart.library.html":"flutter_crud|lib/src/platform/platform_web.dart"}],"sdkDeps":[],"hasMain":false}

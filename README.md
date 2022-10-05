@@ -1,7 +1,5 @@
-This example demonstrates how a shared web worker can be used with Drift and Flutter. 
-
+CRUD project in Flutter
 To run this example:
-- Run `./generate_js.sh`
-- Then, run `flutter run` and select a browser to run the example
+- Run `./runner.sh`
+    - Then, if you wanna execute application again run `flutter run` and select a browser 
 
-For more information visit https://drift.simonbinder.eu/web/
