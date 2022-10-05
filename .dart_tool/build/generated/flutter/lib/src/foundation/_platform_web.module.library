@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["flutter|lib/src/foundation/platform.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html","ui"],"hasMain":false}

@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["stream_channel|lib/stream_channel.dart","drift|lib/drift.dart","drift|lib/remote.dart","drift|lib/src/isolate.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["isolate"],"hasMain":false}

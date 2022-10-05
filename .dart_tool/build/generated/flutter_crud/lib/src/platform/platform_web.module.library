@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["drift|lib/drift.dart","drift|lib/remote.dart","drift|lib/web.dart","flutter|lib/foundation.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["html"],"hasMain":false}

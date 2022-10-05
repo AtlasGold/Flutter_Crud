@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["material_color_utilities|lib/quantize/point_provider.dart","material_color_utilities|lib/quantize/point_provider_lab.dart","material_color_utilities|lib/quantize/quantizer.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["math"],"hasMain":false}

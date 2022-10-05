@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["meta|lib/meta.dart","sqlite3|lib/src/common/functions.dart","sqlite3|lib/src/common/result_set.dart","sqlite3|lib/src/common/statement.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[],"hasMain":false}

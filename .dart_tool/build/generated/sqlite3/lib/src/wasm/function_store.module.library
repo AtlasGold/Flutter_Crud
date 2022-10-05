@@ -1,0 +1,1 @@
+{"isEntrypoint":false,"deps":["sqlite3|lib/src/common/constants.dart","sqlite3|lib/src/common/functions.dart","sqlite3|lib/src/wasm/bindings.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["collection","convert","typed_data"],"hasMain":false}
